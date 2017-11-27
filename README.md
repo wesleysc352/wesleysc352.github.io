@@ -1,1 +1,1 @@
-# https://wsc.github.io
+# http://wsc.github.io
